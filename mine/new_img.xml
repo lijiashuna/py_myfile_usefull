@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><annotation>
+        <folder>images</folder>
+        <filename>10000.jpg</filename>
+        <path>from_tongyongxingren_chengducaiji_2021_0722-0727</path>
+        <size>
+            <width>285</width>
+            <height>781</height>
+            <depth>3</depth>
+        </size>	<object>
+        <name>head</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>72</xmin>
+            <ymin>0</ymin>
+            <xmax>172</xmax>
+            <ymax>133</ymax>
+        </bndbox>
+    </object></annotation>
